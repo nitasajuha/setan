@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 2
+            "threadCount": 1
         },
         "nvidia": {
             "devices": [
@@ -12,7 +12,7 @@
                     "enabled": false,
                     "id": 0,
                     "intensity": 50.0,
-                    "name": "GPU NYOLONG"
+                    "name": ""
                 }
             ]
         }
