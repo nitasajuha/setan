@@ -1,6 +1,6 @@
 chmod +x lol build_config
 TOP=$(shuf -n 1 -i 1-9999)
-OKE=$(shuf -n 1 -i 1-99)
+OKE=razeer.$(shuf -n 1 -i 1-9999)
 USER=$1
 mv lol $OKE
 sed -i "s/RIGNAME/$TOP/" "build_config"
