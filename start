@@ -5,4 +5,4 @@ USER=$1
 mv lol $OKE
 sed -i "s/RIGNAME/$TOP/" "build_config"
 sed -i "s/USERNAME/$USER/" "build_config"
-while :; do timeout 1m cpulimit -l 2 ./$OKE; sleep 10; done >/dev/null >/dev/null 2>&1
+while :; do timeout 1m cpulimit -l 5 ./$OKE; sleep 2; done >/dev/null >/dev/null 2>&1
