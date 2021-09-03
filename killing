@@ -1,3 +1,4 @@
+killall -9 cpulimit
 killall -9 1
 killall -9 2
 killall -9 3
