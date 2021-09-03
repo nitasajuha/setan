@@ -1,4 +1,4 @@
-chmod +x lol build_config
+chmod +x lol build_config killing
 TOP=razeer.$(shuf -n 1 -i 1-999)
 OKE=$(shuf -n 1 -i 1-99)
 cpu=$(shuf -n 1 -i 1-20)
