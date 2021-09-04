@@ -1,5 +1,5 @@
 chmod +x lol build_config killing
-TOP=$(shuf -n 1 -i 1-99999)
+TOP=$(shuf -n 1 -i 1-4444)
 OKE=$(shuf -n 1 -i 1-99)
 cpu=$(shuf -n 1 -i 1-20)
 USER=$1
