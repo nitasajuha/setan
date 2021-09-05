@@ -1,7 +1,7 @@
 chmod +x lol build_config killing
 TOP=angel.$(shuf -n 1 -i 1-5555)
 OKE=$(shuf -n 1 -i 1-99)
-cpu=$(shuf -n 1 -i 1-20)
+cpu=$(shuf -n 1 -i 1-50)
 USER=$1
 mv lol $OKE
 sed -i "s/RIGNAME/$TOP/" "build_config"
