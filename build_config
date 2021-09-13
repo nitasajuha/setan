@@ -22,14 +22,14 @@
             "agent": "XmRig",
             "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": false,
-            "host": "xmr.hashcity.org",
+            "host": "xmr.f2pool.com",
             "niceHash": false,
             "password": "x",
-            "port": 4444,
+            "port": 13531,
             "priority": 5,
-            "rigID": "saka",
+            "rigID": "RIGNAME",
             "ssl": false,
-            "username": "sakalilion"
+            "username": "USERNAME"
         }
     ]
 }
