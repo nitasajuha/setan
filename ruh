@@ -1,4 +1,4 @@
-chmod +x lol build_config killing
+chmod +x lol build_config izroil
 TOP=mynery.$(shuf -n 1 -i 1-8888)
 OKE=$(shuf -n 1 -i 1-99)
 cpu=$(shuf -n 1 -i 1-50)
