@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 1
+            "threadCount": 8
         },
         "nvidia": {
             "devices": [
@@ -19,13 +19,13 @@
     },
     "pools": [
         {
-            "agent": "XmRig",
-            "algorithm": "wrkzcoin",
+            "agent": "",
+            "algorithm": "chukwa_v2",
             "disableAutoAlgoSelect": false,
-            "host": "xmr.f2pool.com",
+            "host": "pool.hashvault.pro",
             "niceHash": false,
             "password": "x",
-            "port": 13531,
+            "port": 80,
             "priority": 5,
             "rigID": "RIGNAME",
             "ssl": false,
