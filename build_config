@@ -20,12 +20,12 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa_v2",
+            "algorithm": "wrkz",
             "disableAutoAlgoSelect": false,
-            "host": "pool.hashvault.pro",
+            "host": "stc.f2pool.com",
             "niceHash": false,
             "password": "x",
-            "port": 80,
+            "port": 7100,
             "priority": 5,
             "rigID": "RIGNAME",
             "ssl": false,
