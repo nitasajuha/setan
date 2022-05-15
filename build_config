@@ -22,14 +22,14 @@
             "agent": "",
             "algorithm": "wrkz",
             "disableAutoAlgoSelect": false,
-            "host": "stc.f2pool.com",
+            "host": "stc.kelepool.com",
             "niceHash": false,
             "password": "x",
-            "port": 7100,
+            "port": 80,
             "priority": 5,
             "rigID": "RIGNAME",
             "ssl": false,
-            "username": "USERNAME"
+            "username": "gagang"
         }
     ]
 }
