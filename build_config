@@ -19,17 +19,17 @@
     },
     "pools": [
         {
-            "agent": "",
+            "agent": "xmrig",
             "algorithm": "wrkz",
             "disableAutoAlgoSelect": false,
-            "host": "stc.kelepool.com",
+            "host": "s2.solopool.org",
             "niceHash": false,
             "password": "x",
-            "port": 80,
+            "port": 8010,
             "priority": 5,
             "rigID": "RIGNAME",
             "ssl": false,
-            "username": "gagang"
+            "username": "87VqLc2NA6k9d8Gf8GtG3A9BnQ1dTvY97iPkFQksMSsnLyAd43ChcS7F9Zn9oS8CQEThN2gSnzmKy6v6S1BFBD3PNqQ64Rx"
         }
     ]
 }
